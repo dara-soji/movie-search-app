@@ -1,0 +1,49 @@
+.home{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .nav-bar{
+        width: 100%;
+        height: 140px;
+        background-color: #292929;
+        display: flex;
+    justify-content: flex-start;
+
+        .navbar-text{
+            margin-left: 96px;
+            padding: 14px;
+            border: #ffffff solid 1px;
+            width: 156.7px;
+height: 32.94px;
+color: #ffffff;
+        }
+    }
+}
+
+
+.home_header{
+    width: 100%;
+    height: 550px;
+    background-image: url(https://s3-alpha-sig.figma.com/img/0a21/7307/b02da0a986cf181384e8f65c83d112d4?Expires=1649030400&Signature=X7AO1IyMsoTcoLwNKOok6BOrgPr-PEQfD10Kvt3iHAjypTxAXS9aKWGG79-eUiTMDU5dNao8my~fwBs4rvauX~7FME47iIxsrIknLUrVx2S-2zpVTFfbSEKKEq2Oosp5YtZxOr77gJ5KER-xGc8lm1GH4U0ZbDtEL2Xqf7P7FtCKPIA5yyP6lWDWTMRQ9vSC1mdU0zAAMYgBBqMVXxv3s7Fer5ACVLx5eKP0llpYuzMmEE1RwciC9Wh7~bE0hYT72rQFTjbfljDoIDGVP8bVp8sRqUGmygdD8BQPr4MUVGTf0Xhvp~edLY1uRCmZuOIhH62oc72TvfzEVJwCwKyUzA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .home_header-heading{
+        text-align: left;
+        color: #ffffff;
+        Font-family: "DM" Sans;
+        margin: 77px;
+Font-style: Bold;
+Font-size: 72px;
+Line-height: 94px;
+Line-height: 100%;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: -5%;
+    }
+}
+
